@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObfuscarMappingParser.Engin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObfuscarMappingParser.TestAssembly", "ObfuscarMappingParser.TestAssembly\ObfuscarMappingParser.TestAssembly.csproj", "{7427BEBF-CEDA-47F4-978E-607CF595F0B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObfuscarMappingParser.Cmd", "ObfuscarMappingParser.Cmd\ObfuscarMappingParser.Cmd.csproj", "{778BAC02-2451-4F41-9FA8-5C814DD41C66}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +49,10 @@ Global
 		{7427BEBF-CEDA-47F4-978E-607CF595F0B2}.Debug|Any CPU.Build.0 = Release|Any CPU
 		{7427BEBF-CEDA-47F4-978E-607CF595F0B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7427BEBF-CEDA-47F4-978E-607CF595F0B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{778BAC02-2451-4F41-9FA8-5C814DD41C66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{778BAC02-2451-4F41-9FA8-5C814DD41C66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{778BAC02-2451-4F41-9FA8-5C814DD41C66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{778BAC02-2451-4F41-9FA8-5C814DD41C66}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
